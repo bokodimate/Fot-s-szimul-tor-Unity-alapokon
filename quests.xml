@@ -1,0 +1,46 @@
+<quests>
+	<quest>
+		<questGiver>1</questGiver>
+		<countNeeded>1</countNeeded>
+		<objectName>Agancs</objectName>
+		<type>Collect</type>
+		<options></options>
+		<reward>Nikon Objektív 18-55</reward>
+	</quest>
+
+	<quest>
+		<questGiver>1</questGiver>
+		<countNeeded>2</countNeeded>
+		<objectName>Gomba</objectName>
+		<type>Collect</type>
+		<options></options>
+		<reward>Nikon kamera</reward>
+	</quest>
+	
+	<quest>
+		<questGiver>1</questGiver>
+		<countNeeded>2</countNeeded>
+		<objectName>Wild_boar_prefab</objectName>
+		<type>Photo</type>
+		<options></options>
+		<reward>Nikon Objektív 24-70</reward>
+	</quest>
+	
+	<quest>
+		<questGiver>2</questGiver>
+		<countNeeded>5</countNeeded>
+		<objectName>Wild_rabbit_prefab</objectName>
+		<type>Photo</type>
+		<options></options>
+		<reward>Nikon Objektív 70-300</reward>
+	</quest>
+	<quest>
+		<questGiver>3</questGiver>
+		<countNeeded>1</countNeeded>
+		<objectName>Brown_bear_prefab</objectName>
+		<type>Photo</type>
+		<options></options>
+		<reward>Nikon Objektív 70-300</reward>
+	</quest>
+	
+</quests>
